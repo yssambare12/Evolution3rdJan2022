@@ -1,20 +1,36 @@
 {
-    "posts": [
-      {
-        "title": "rice",
-        "ingredients": "rice",
-        "time_to_cook": "10min",
-        "image": "WhatsApp Image 2021-12-07 at 23.52.28-removebg-preview.jpg",
-        "instructions": "cooker",
-        "id": "8abc-"
-      },
-      {
-        "title": "Juse",
-        "ingredients": "Orange",
-        "time_to_cook": "15min",
-        "image": "oooo.plus_16-removebg-preview.jpg",
-        "instructions": "mixer",
-        "id": "TXXKWt_"
-      }
-    ]
-  }
+  "posts": [
+    {
+      "title": "dal",
+      "ingredients": "dal",
+      "time_to_cook": "10min",
+      "image": "WIN_20180404_15_48_02_Pro.jpg",
+      "instructions": "placea in cooker",
+      "id": "TXXKWt_"
+    },
+    {
+      "title": "noodels",
+      "ingredients": "veggies,cheese,bread",
+      "time_to_cook": "25 min",
+      "image": "450d1b94-6376-4b7b-8cad-0eac9fbfceff.webm",
+      "instructions": "bake",
+      "id": "5864ff"
+    },
+    {
+      "title": "soda",
+      "ingredients": "bun bread ,aloo tikki , moyaneese ",
+      "time_to_cook": "5min",
+      "image": "oooo.plus_16.png",
+      "instructions": "oven it",
+      "id": "yJPJslb"
+    },
+    {
+      "title": "meet",
+      "ingredients": "maida,salt,oil",
+      "time_to_cook": "45min",
+      "image": "WhatsApp Image 2021-12-07 at 23.52.28.jpeg",
+      "instructions": "bake in oven",
+      "id": "kfexltk"
+    }
+  ]
+}

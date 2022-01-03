@@ -32,7 +32,7 @@ export const Form=()=>{
         id:nanoid(7)
         }
         setList([...list,payload]);
-        fetch('http://localhost:3000/posts', {
+        fetch('http://localhost:3001/posts', {
             method: 'POST',
             body: JSON.stringify(payload),
             headers: {

@@ -1,5 +1,10 @@
 .App {
   text-align: center;
+  margin: auto;
+  width: 800px;
+  background-color: rgb(99, 253, 145);
+  color: black;
+  padding:20px
 }
 .griding{
   display: grid;

@@ -5,14 +5,13 @@ import { Showing } from './components/showrecipe';
 function App() {
   return (
     <div className="App">
-      Recipe Tracking App
+      <h1>Receipe Book</h1>
       <div className='griding'>
       <div className='left_form'> 
-      <h3>Enter Your reciepe details</h3>
+      <h3>Enter reciepe details</h3>
       <Form className="lef"/></div>
       <div><Showing/></div>
       </div>
-      
      
     </div>
   );
