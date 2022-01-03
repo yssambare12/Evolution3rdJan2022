@@ -1,0 +1,20 @@
+{
+    "posts": [
+      {
+        "title": "rice",
+        "ingredients": "rice",
+        "time_to_cook": "10min",
+        "image": "WhatsApp Image 2021-12-07 at 23.52.28-removebg-preview.jpg",
+        "instructions": "cooker",
+        "id": "8abc-"
+      },
+      {
+        "title": "Juse",
+        "ingredients": "Orange",
+        "time_to_cook": "15min",
+        "image": "oooo.plus_16-removebg-preview.jpg",
+        "instructions": "mixer",
+        "id": "TXXKWt_"
+      }
+    ]
+  }
