@@ -1,23 +1,19 @@
 import logo from './logo.svg';
 import './App.css';
-
+import { Form } from './components/Form';
+import { Showing } from './components/showrecipe';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      hello
+      <div className='griding'>
+      <div className='left_form'> 
+      <h3>Enter reciepe details</h3>
+      <Form className="lef"/></div>
+      <div><Showing/></div>
+      </div>
+      
+     
     </div>
   );
 }

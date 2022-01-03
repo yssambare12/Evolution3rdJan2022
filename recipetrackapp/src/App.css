@@ -1,7 +1,12 @@
 .App {
   text-align: center;
 }
-
+.griding{
+  display: grid;
+  grid-template-columns: 30% 65%;
+  grid-gap:5%;
+  margin:2%;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
