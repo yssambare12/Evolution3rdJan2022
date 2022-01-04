@@ -4,7 +4,7 @@ export const Showing=()=>{
    const [all,setAll]=useState("");
    const test=useRef([]);
     const getUserDetails = () => {
-        fetch('http://localhost:3001/posts')
+        fetch('http://localhost:3000/posts')
           .then(data => data.json())
           .then(res => 
               
